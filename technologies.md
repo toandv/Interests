@@ -1,2 +1,5 @@
-* Spring
 * Web Server
+* Integration
+* Databases
+* DDD
+* REST
