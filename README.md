@@ -3,5 +3,4 @@
 * Functional Programming
 * Concurrent Programming
 * Programming Languages
-* Data Structures
-* Algorithms
+* Data Structures & Algorithms
