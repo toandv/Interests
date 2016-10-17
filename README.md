@@ -1,4 +1,4 @@
-# interests
+# My main interests
 
 * Functional Programming
 * Concurrent Programming
